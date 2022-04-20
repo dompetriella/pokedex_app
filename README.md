@@ -1,4 +1,6 @@
-# test_app
+pokedex_app
+
+Good for testing Dio API
 
 A new Flutter project.
 
